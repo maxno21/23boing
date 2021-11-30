@@ -1,0 +1,7 @@
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_2\Body3D_1\obj\Debug\Body3D_1.csprojAssemblyReference.cache
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_2\Body3D_1\obj\Debug\Body3D_1.csproj.CoreCompileInputs.cache
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_2\Body3D_1\bin\Debug\Body3D_1.exe.config
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_2\Body3D_1\bin\Debug\Body3D_1.exe
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_2\Body3D_1\bin\Debug\Body3D_1.pdb
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_2\Body3D_1\obj\Debug\Body3D_1.exe
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_2\Body3D_1\obj\Debug\Body3D_1.pdb

@@ -1,0 +1,14 @@
+D:\Java\DOT NET\DZ_2_24_10_2019\DZ_2_3DevFl\ConsoleComplexNum\bin\Debug\ConsoleComplexNum.exe.config
+D:\Java\DOT NET\DZ_2_24_10_2019\DZ_2_3DevFl\ConsoleComplexNum\bin\Debug\ConsoleComplexNum.exe
+D:\Java\DOT NET\DZ_2_24_10_2019\DZ_2_3DevFl\ConsoleComplexNum\bin\Debug\ConsoleComplexNum.pdb
+D:\Java\DOT NET\DZ_2_24_10_2019\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.csproj.CoreCompileInputs.cache
+D:\Java\DOT NET\DZ_2_24_10_2019\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.exe
+D:\Java\DOT NET\DZ_2_24_10_2019\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.pdb
+D:\Java\DOT NET\DZ_2_24_10_2019\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.csprojAssemblyReference.cache
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_1\DZ_2_3DevFl\ConsoleComplexNum\bin\Debug\ConsoleComplexNum.exe.config
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_1\DZ_2_3DevFl\ConsoleComplexNum\bin\Debug\ConsoleComplexNum.exe
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_1\DZ_2_3DevFl\ConsoleComplexNum\bin\Debug\ConsoleComplexNum.pdb
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_1\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.csproj.CoreCompileInputs.cache
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_1\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.exe
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_1\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.pdb
+D:\Java\DOT NET\DZ_2_24_10_2019\Task_2_1\DZ_2_3DevFl\ConsoleComplexNum\obj\Debug\ConsoleComplexNum.csprojAssemblyReference.cache

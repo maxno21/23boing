@@ -1,0 +1,15 @@
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1.csprojAssemblyReference.cache
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\MainWindow.g.cs
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\App.g.cs
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1_MarkupCompile.cache
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1_MarkupCompile.lref
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\bin\Debug\NotepadApp1.exe.config
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\bin\Debug\NotepadApp1.exe
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\bin\Debug\NotepadApp1.pdb
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\MainWindow.baml
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1.g.resources
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1.Properties.Resources.resources
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1.csproj.GenerateResource.cache
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1.csproj.CoreCompileInputs.cache
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1.exe
+D:\Java\DOT NET\Module_15\DZ_04_04_2020\1\NotepadApp1\obj\Debug\NotepadApp1.pdb

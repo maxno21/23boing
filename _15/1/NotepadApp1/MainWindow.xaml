@@ -1,0 +1,41 @@
+﻿<Window x:Class="NotepadApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NotepadApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" >
+    <Grid>
+        
+        <Menu Grid.Row="0">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Open" Click="openMenuItem_Click">
+                </MenuItem>
+                <MenuItem Header="Save _As" Click="saveAsMenuItem_Click" />
+                <Separator />
+                <MenuItem Header="_Exit" Click="exitMenuItem_Click" />
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Header="_Undo" Click="undoMenuItem_Click" />
+                <MenuItem Header="_Redo" Click="redoMenuItem_Click" />
+                <Separator />
+                <MenuItem Header="_Cut" Click="cutMenuItem_Click" />
+                <MenuItem Header="C_opy" Click="copyMenuItem_Click" />
+                <MenuItem Header="_Paste" Click="pasteMenuItem_Click" />
+                <Separator />
+                <MenuItem Header="Select A_ll" Click="selectallMenuItem_Click" />
+            </MenuItem>
+            <MenuItem Header="_Format">
+                <MenuItem Header="_Text-wrapping" Name ="textWrappingMI" IsCheckable="True" IsChecked="True"  
+                          Click="textWrappingMenuItem_Click"/>
+                <MenuItem Header="Spell-c_hecking" Name ="textSpellCheckingMI" IsCheckable="True" IsChecked="True" 
+                          Click="spellcheckingMenuItem_Click"/>
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="350" Margin="10,30,0,0"
+                 TextWrapping="Wrap" VerticalAlignment="Top" Width="770"
+                 IsEnabled="True" AcceptsReturn="True" SpellCheck.IsEnabled="True" Language="ru-ru" 
+                  />
+    </Grid>
+</Window>

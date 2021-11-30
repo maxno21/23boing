@@ -1,0 +1,7 @@
+D:\Java\DOT NET\DZ_5_24_10_2019\DZ_02_11_2019_1\10\listStack\bin\Debug\listStack.exe.config
+D:\Java\DOT NET\DZ_5_24_10_2019\DZ_02_11_2019_1\10\listStack\bin\Debug\listStack.exe
+D:\Java\DOT NET\DZ_5_24_10_2019\DZ_02_11_2019_1\10\listStack\bin\Debug\listStack.pdb
+D:\Java\DOT NET\DZ_5_24_10_2019\DZ_02_11_2019_1\10\listStack\obj\Debug\listStack.csprojAssemblyReference.cache
+D:\Java\DOT NET\DZ_5_24_10_2019\DZ_02_11_2019_1\10\listStack\obj\Debug\listStack.csproj.CoreCompileInputs.cache
+D:\Java\DOT NET\DZ_5_24_10_2019\DZ_02_11_2019_1\10\listStack\obj\Debug\listStack.exe
+D:\Java\DOT NET\DZ_5_24_10_2019\DZ_02_11_2019_1\10\listStack\obj\Debug\listStack.pdb
